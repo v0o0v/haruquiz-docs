@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+title: 하루퀴즈 공개 문서
+description: 개인정보처리방침 및 자율 검토 자료
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
