@@ -1,22 +1,11 @@
 # 하루퀴즈 공개 문서
 
-이 저장소는 **하루퀴즈** Android 앱의 공개 문서(개인정보 처리방침, 자율 검토 자료)를 호스팅합니다.
+## 문서 목록
 
-## 📄 목차
+- [개인정보 처리방침](pipa-policy.html)
+- [이용약관](terms.html)
 
-- **[개인정보 처리방침](pipa-policy.html)** (PIPA 제30조 기준, v1.1 draft)
-- **[이용약관](terms.html)** (KISA 표준약관 + 한국 SaaS 5종 벤치마킹, v1.0 draft)
-- [AI 시뮬레이션 PIPA 검토 의견서](pipa-lawyer-review.html) — 처리방침 작성 근거 (Claude Opus 4.7 시뮬레이션)
-- [한국 SaaS 5종 + KISA 벤치마킹](pipa-benchmark-review.html) — PIPA 자율 검토 결과
+## 연락처
 
-## 📌 안내
-
-- 처리방침은 현재 **출시 전 draft (v1.1)** 상태입니다. 정식 시행일자와 운영자 정보는 출시 시점에 확정 후 갱신됩니다.
-- 이용약관도 동일하게 **출시 전 draft (v1.0)** 상태이며, 시행일·관할 법원·운영자명 등 placeholder를 출시 시점에 확정합니다.
-- 한국 변호사 단발 검토는 자체 검수(AI 시뮬레이션 + KISA "개인정보 처리방침 만들기" 도구 + 한국 SaaS 5종 벤치마킹)로 완료 처리되었습니다.
-- 본 저장소는 메인 코드 저장소와 분리된 **docs-only 공개 저장소**입니다.
-
-## 🔗 관련 링크
-
-- 앱 정보: 출시 후 추가
-- 보호책임자 연락처: 출시 전 [처리방침 제11조](pipa-policy.html) 갱신 예정
+- 운영자: 김민석
+- 이메일: haruquizcenter@gmail.com
